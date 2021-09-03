@@ -1,0 +1,5 @@
+import sympy
+print("Enter the value for n")
+n=int(input())
+print("The prime no. is")
+print(sympy.prime(n))
